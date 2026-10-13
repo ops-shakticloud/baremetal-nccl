@@ -1,5 +1,7 @@
 # Building and Running NCCL Tests Without a Container/Container environment
 
+NOTE: all the steps should be executed as non root user ( except the nccl test launch step which can be done as root user)
+
 installation of all softwares will ve done under followign path:
 ```
 export _TOP=/home/benchmark/puneet_bench/nccl/compiled
