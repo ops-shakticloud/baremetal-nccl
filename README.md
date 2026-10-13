@@ -1,4 +1,4 @@
-# Building and Running NCCL Tests Without a Container/Container environment
+# (Building and) Running NCCL Tests Without a Container/Container environment
 
 NOTE: all the steps should be executed as non root user ( except the nccl test launch step which can be done as root user)
 
